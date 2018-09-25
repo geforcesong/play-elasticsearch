@@ -10,7 +10,7 @@ const BasicSearch = require('./search/BasicSearch');
             throw new Error('Server is not running...........error....');
         }
         
-        const basicResults = await basic.searchByPrice();
+        const basicResults = await basic.searchByFirstAndLastName();
         console.log(basicResults);
     } catch (err) {
         console.log(err);

@@ -1,0 +1,66 @@
+[
+    {
+        "name": "George",
+        "age": 20,
+        "sex": "M",
+        "city": "Kunshan",
+        "country": "China",
+        "address": "905 shell blvd apt 103"
+    },
+    {
+        "name": "Conjee",
+        "age": 22,
+        "sex": "M",
+        "city": "Shanghai",
+        "country": "China",
+        "address": "5942 E Belmont Ave Fresno, CA 93727"
+    },
+    {
+        "name": "Jenny",
+        "age": 25,
+        "sex": "F",
+        "city": "Kunshan",
+        "country": "China",
+        "address": "905 shell blvd apt 103"
+    },
+    {
+        "name": "Ying",
+        "age": 30,
+        "sex": "F",
+        "city": "Shanghai",
+        "country": "China",
+        "address": "138 N Claremont Ave"
+    },
+    {
+        "name": "Jason",
+        "age": 35,
+        "sex": "M",
+        "city": "Shanghai",
+        "country": "China",
+        "address": "905 shell blvd apt 103"
+    },
+    {
+        "name": "Nick",
+        "age": 40,
+        "sex": "M",
+        "city": "Suzhou",
+        "country": "China",
+        "address": "117 Sunset Blvd #10117"
+    },
+    {
+        "name": "Howard",
+        "age": 19,
+        "sex": "M",
+        "city": "San Mateo",
+        "country": "US",
+        "address": "6036 E Illinois Ave Fresno, CA 93727"
+    },
+    {
+        "name": "Steven",
+        "age": 18,
+        "sex": "M",
+        "city": "San Mateo",
+        "country": "US",
+        "address": "3816 Waldo Ave #6A"
+    }
+]
